@@ -1,0 +1,14 @@
+name: data-mining-and-text-mining
+channels:
+  - defaults
+dependencies:
+  - lenskit
+  - python=3.8
+  - seaborn
+  - pandas
+  - numpy
+  - matplotlib
+  - jupyter
+  - jupyterlab
+prefix: /usr/local/Caskroom/miniconda/base/envs/data-mining-and-text-mining
+

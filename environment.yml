@@ -1,6 +1,7 @@
 name: data-mining-and-text-mining
 channels:
   - defaults
+  - lenskit
 dependencies:
   - lenskit
   - python=3.8
